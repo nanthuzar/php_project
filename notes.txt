@@ -1,0 +1,21 @@
+onlineshopping
+-template
+
+-db_connect.php
+-index.php
+-config.php
+-.htaccess
+
+-controllers
+-models
+-view
+
+-storage <= (MAC, Linux => Permission)
+
+
+
+MVC Flow
+model = database
+view = client side
+controller = communication b/t model & view
+config = assign path
